@@ -102,6 +102,3 @@ Want to make this your own? Here are some ideas:
 
 Feel free to fork this project and add your own features! It's a great way to learn about WebSockets and real-time applications.
 
-## License
-
-This is a demo project, so do whatever you want with it. Learn, modify, improve, and share!
