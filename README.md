@@ -12,6 +12,7 @@ This app lets multiple users chat with each other in real-time. When someone sen
 - **WebSockets** - For real-time bidirectional communication
 - **STOMP** - A messaging protocol that works over WebSockets
 - **Thymeleaf** - For rendering the web pages
+- **Tailwind CSS** → Clean, responsive, and modern UI styling
 - **Lombok** - To reduce boilerplate code (goodbye, endless getters and setters!)
 - **SockJS** - Fallback options when WebSockets aren't available
 
@@ -66,7 +67,8 @@ src/main/java/com/chat/app/
 ## Features
 
 - ✅ Real-time messaging
-- ✅ Multiple users can chat simultaneously  
+- ✅ Multiple users can chat simultaneously
+- ✅ Tailwind CSS styling for a modern, responsive UI  
 - ✅ Simple and clean setup
 - ✅ Works across different browser tabs/windows
 - ✅ SockJS fallback for better compatibility
@@ -101,4 +103,5 @@ Want to make this your own? Here are some ideas:
 ## Contributing
 
 Feel free to fork this project and add your own features! It's a great way to learn about WebSockets and real-time applications.
+
 
